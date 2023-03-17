@@ -1,0 +1,212 @@
+[
+    {
+        "href": "https://api.spotify.com/v1/users/31o2d6d5xiqeq7m6w3nr2pbvfmwi/playlists?offset=1&limit=9",
+        "items": [
+          {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/playlist/1dKUBUSQ2Y2dPC8QzHd6eW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1dKUBUSQ2Y2dPC8QzHd6eW",
+            "id": "1dKUBUSQ2Y2dPC8QzHd6eW",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27367448d82f91abdb274cd043e",
+                "width": 640
+              }
+            ],
+            "name": "My Playlist #5",
+            "owner": {
+              "display_name": "robin robiul",
+              "external_urls": {
+                "spotify": "https://open.spotify.com/user/31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+              },
+              "href": "https://api.spotify.com/v1/users/31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "id": "31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "type": "user",
+              "uri": "spotify:user:31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCxlZjlhYjM4ZDdhNzJiYzdkZTA5ZDY4ZDJhMDVhMTI4Y2UwNWJjY2Rj",
+            "tracks": {
+              "href": "https://api.spotify.com/v1/playlists/1dKUBUSQ2Y2dPC8QzHd6eW/tracks",
+              "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1dKUBUSQ2Y2dPC8QzHd6eW"
+          },
+          {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/playlist/52HuLN9nLXgxOARcr3Se5X"
+            },
+            "href": "https://api.spotify.com/v1/playlists/52HuLN9nLXgxOARcr3Se5X",
+            "id": "52HuLN9nLXgxOARcr3Se5X",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27332471fa0cb798bb63a720f0bab67616d0000b27333d6877a1364cea662551c70ab67616d0000b273a884056a7c52930136a4cd69ab67616d0000b273f8403bd91fefa84049fc49ea",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27332471fa0cb798bb63a720f0bab67616d0000b27333d6877a1364cea662551c70ab67616d0000b273a884056a7c52930136a4cd69ab67616d0000b273f8403bd91fefa84049fc49ea",
+                "width": 300
+              },
+              {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27332471fa0cb798bb63a720f0bab67616d0000b27333d6877a1364cea662551c70ab67616d0000b273a884056a7c52930136a4cd69ab67616d0000b273f8403bd91fefa84049fc49ea",
+                "width": 60
+              }
+            ],
+            "name": "My Playlist #4",
+            "owner": {
+              "display_name": "robin robiul",
+              "external_urls": {
+                "spotify": "https://open.spotify.com/user/31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+              },
+              "href": "https://api.spotify.com/v1/users/31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "id": "31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "type": "user",
+              "uri": "spotify:user:31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Nyw2YWZiN2M2MDY2ODBhOWViODVjY2VjZDc4ZDdjZGQ4MGFlZmM2N2Y4",
+            "tracks": {
+              "href": "https://api.spotify.com/v1/playlists/52HuLN9nLXgxOARcr3Se5X/tracks",
+              "total": 6
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:52HuLN9nLXgxOARcr3Se5X"
+          },
+          {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/playlist/7APddGpKDTYNnu797T5YJC"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7APddGpKDTYNnu797T5YJC",
+            "id": "7APddGpKDTYNnu797T5YJC",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a4a3647f05cbe8d6fd64e9fe",
+                "width": 640
+              }
+            ],
+            "name": "My Playlist #3",
+            "owner": {
+              "display_name": "robin robiul",
+              "external_urls": {
+                "spotify": "https://open.spotify.com/user/31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+              },
+              "href": "https://api.spotify.com/v1/users/31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "id": "31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "type": "user",
+              "uri": "spotify:user:31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSxkNzA0NjY5Mzk5Njg3NzA1YTI0NTgwMzk2ZjEwNWMzOTliMWQ2NzAw",
+            "tracks": {
+              "href": "https://api.spotify.com/v1/playlists/7APddGpKDTYNnu797T5YJC/tracks",
+              "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7APddGpKDTYNnu797T5YJC"
+          },
+          {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/playlist/2Ds5GdCtQhA3KtkM2fm1tS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2Ds5GdCtQhA3KtkM2fm1tS",
+            "id": "2Ds5GdCtQhA3KtkM2fm1tS",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
+                "width": 640
+              }
+            ],
+            "name": "My Playlist #2",
+            "owner": {
+              "display_name": "robin robiul",
+              "external_urls": {
+                "spotify": "https://open.spotify.com/user/31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+              },
+              "href": "https://api.spotify.com/v1/users/31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "id": "31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "type": "user",
+              "uri": "spotify:user:31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCwyNGQ3ZDE5OTdmN2NmNjljYjBiY2YwYzQ3ZjM4YjQxZmY1OTdjZTRj",
+            "tracks": {
+              "href": "https://api.spotify.com/v1/playlists/2Ds5GdCtQhA3KtkM2fm1tS/tracks",
+              "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2Ds5GdCtQhA3KtkM2fm1tS"
+          },
+          {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/playlist/5yLXaFbnnBZ2oZQetr164k"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5yLXaFbnnBZ2oZQetr164k",
+            "id": "5yLXaFbnnBZ2oZQetr164k",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2736539071e0f1833190a491d4dab67616d0000b2737569cbe3695608074d9fd389ab67616d0000b273806c160566580d6335d1f16cab67616d0000b273e859698c8fe21d42a13ec252",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2736539071e0f1833190a491d4dab67616d0000b2737569cbe3695608074d9fd389ab67616d0000b273806c160566580d6335d1f16cab67616d0000b273e859698c8fe21d42a13ec252",
+                "width": 300
+              },
+              {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2736539071e0f1833190a491d4dab67616d0000b2737569cbe3695608074d9fd389ab67616d0000b273806c160566580d6335d1f16cab67616d0000b273e859698c8fe21d42a13ec252",
+                "width": 60
+              }
+            ],
+            "name": "My Playlist #1",
+            "owner": {
+              "display_name": "robin robiul",
+              "external_urls": {
+                "spotify": "https://open.spotify.com/user/31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+              },
+              "href": "https://api.spotify.com/v1/users/31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "id": "31o2d6d5xiqeq7m6w3nr2pbvfmwi",
+              "type": "user",
+              "uri": "spotify:user:31o2d6d5xiqeq7m6w3nr2pbvfmwi"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTUsNGU1NGFmOTg3ZTg0N2JkOTZlMDI0MTFkNjQ0OWQxYjAyMzhhYTk2OQ==",
+            "tracks": {
+              "href": "https://api.spotify.com/v1/playlists/5yLXaFbnnBZ2oZQetr164k/tracks",
+              "total": 14
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5yLXaFbnnBZ2oZQetr164k"
+          }
+        ],
+        "limit": 9,
+        "next": null,
+        "offset": 1,
+        "previous": "https://api.spotify.com/v1/users/31o2d6d5xiqeq7m6w3nr2pbvfmwi/playlists?offset=0&limit=9",
+        "total": 6
+      }
+]
